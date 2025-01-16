@@ -1,0 +1,28 @@
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\bin\Debug\net6.0\MY BANK APP.exe
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\bin\Debug\net6.0\MY BANK APP.deps.json
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\bin\Debug\net6.0\MY BANK APP.runtimeconfig.json
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\bin\Debug\net6.0\MY BANK APP.dll
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\bin\Debug\net6.0\MY BANK APP.pdb
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\MY BANK APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\MY BANK APP.AssemblyInfoInputs.cache
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\MY BANK APP.AssemblyInfo.cs
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\MY BANK APP.csproj.CoreCompileInputs.cache
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\MY BANK APP.dll
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\refint\MY BANK APP.dll
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\MY BANK APP.pdb
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\MY BANK APP.genruntimeconfig.cache
+C:\Users\Arshath\Documents\Algorithms and Programming YEAR 1\Algorithms and Programming Year 1\MY BANK APP\obj\Debug\net6.0\ref\MY BANK APP.dll
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\bin\Debug\net6.0\MY BANK APP.exe
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\bin\Debug\net6.0\MY BANK APP.deps.json
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\bin\Debug\net6.0\MY BANK APP.runtimeconfig.json
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\bin\Debug\net6.0\MY BANK APP.dll
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\bin\Debug\net6.0\MY BANK APP.pdb
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\MY BANK APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\MY BANK APP.AssemblyInfoInputs.cache
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\MY BANK APP.AssemblyInfo.cs
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\MY BANK APP.csproj.CoreCompileInputs.cache
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\MY BANK APP.dll
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\refint\MY BANK APP.dll
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\MY BANK APP.pdb
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\MY BANK APP.genruntimeconfig.cache
+C:\Users\arsha\OneDrive\Documents\MY BANK APP\obj\Debug\net6.0\ref\MY BANK APP.dll
